@@ -34,8 +34,8 @@ const questions = [
   },
   
   {
-    question: 'which operating system i am using right now ?\n',
-    answer: 'arch linux'
+    question: 'what is my birthday\n',
+    answer: '2 november'
   },
   
 ]
