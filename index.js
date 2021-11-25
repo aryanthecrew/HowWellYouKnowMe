@@ -31,7 +31,13 @@ const questions = [
   {
     question: 'which operating system i am using right now ?\n',
     answer: 'arch linux'
-  }
+  },
+  
+  {
+    question: 'which operating system i am using right now ?\n',
+    answer: 'arch linux'
+  },
+  
 ]
 
 function calculateAnswer(question , answer){
