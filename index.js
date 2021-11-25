@@ -34,7 +34,7 @@ const questions = [
   },
   
   {
-    question: 'what is my birthday\n',
+    question: 'what is my birthday?\n',
     answer: '2 november'
   },
   
